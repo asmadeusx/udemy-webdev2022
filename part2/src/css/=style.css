@@ -6,6 +6,7 @@ header {
     position: relative;
     height: 50px; /* * */
 }
+
 nav {
     position: fixed; /* * */
     width: 100%; /* * */
@@ -13,6 +14,7 @@ nav {
     background-color: #212121;
     z-index: 2; /* * */
 }
+
 .menu {
     display: flex;
     justify-content: space-between;
@@ -93,6 +95,7 @@ nav {
     background: url('../img/bg/main_bg.jpg') center center/cover no-repeat;
     padding: 150px 0 135px 0;
 }
+
 .promo .promo_header {
     color: #ffffff;
     font-weight: 700;
@@ -102,6 +105,7 @@ nav {
     margin: 0;
     text-align: center;
 }
+
 .promo .promo_subheader  {
     color: #ffffff;
     font-weight: 700;
