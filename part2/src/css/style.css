@@ -148,6 +148,8 @@ nav {
   font-size: 18px;
   font-weight: 400;
   text-transform: uppercase;
+  text-transform-background-image: none;
+  text-transform-background-color: #1eacc7;
 }
 
 .reasons {
