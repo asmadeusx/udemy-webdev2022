@@ -1,6 +1,4 @@
-# udemy-webdev2022-p1
-
-Udemy, WEB-разработчик 2022
+# Udemy, WEB-разработчик 2022, Модуль №1
 
 Иван Петриченко, Front-End Development and Consulting
 
